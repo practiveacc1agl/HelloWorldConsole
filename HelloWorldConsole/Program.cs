@@ -8,7 +8,7 @@ namespace HelloWorldConsole
         {
             Console.WriteLine("Hello World! How are you going?");
             string s = Console.ReadLine();
-            Console.WriteLine("Good Bye All! I am leaving for now...");
+            Console.WriteLine("Good Bye All! I am leaving for now but I will still be there...");
         }
     }
 }
