@@ -7,6 +7,7 @@ namespace HelloWorldConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! How are you going?");
+            string s = Console.ReadLine();
         }
     }
 }
